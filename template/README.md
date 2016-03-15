@@ -1,9 +1,27 @@
-# bel-element-boilerplate
-A boilerplate to create bel element
+# element-boilerplate
+A boilerplate to create bel or yo-yo element
+
+### Why
+
+To start write code quickly.
+
+### Intall
+
+```sh
+$ npm i element-boilerplate -g
+```
 
 ### Usage
 
-To start the server with wzrd.
+To create a markdown component for example:
+
+```sh
+eb element-markdown
+```
+
+### What's in there
+
+To start the server with wzrd from the example directory so that you can test your code while developing.
 
 ```sh
 $ npm start
