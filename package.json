@@ -27,6 +27,7 @@
   "dependencies": {
     "bel": "^4.0.0",
     "copy-template-dir": "^1.2.0",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1"
   }
 }

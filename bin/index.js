@@ -21,5 +21,6 @@ mkdirp(targetDir, function (err) {
       console.error(err)
       process.exit(1)
     }
+    console.log('Done. Happy hacking!')
   })
 })
