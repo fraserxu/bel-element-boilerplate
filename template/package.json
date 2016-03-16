@@ -1,30 +1,19 @@
 {
-  "name": "element-boilerplate",
+  "name": "{{name}}",
   "version": "1.0.0",
   "description": "A boilerplate to create element component",
   "main": "index.js",
-  "bin": {
-    "eb": "./bin/index.js"
-  },
   "scripts": {
     "test": "standard",
     "start": "wzrd example/index.js:bundle.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fraserxu/element-boilerplate.git"
-  },
-  "author": "Fraser Xu",
+  "repository": "",
+  "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/fraserxu/element-boilerplate/issues"
-  },
-  "homepage": "https://github.com/fraserxu/element-boilerplate#readme",
   "devDependencies": {
     "standard": "^6.0.8",
     "wzrd": "^1.3.1"
   },
   "dependencies": {
-    "bel": "^4.0.0"
   }
 }

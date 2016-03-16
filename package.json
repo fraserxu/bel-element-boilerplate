@@ -1,10 +1,10 @@
 {
   "name": "element-boilerplate",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A boilerplate to create element component",
   "main": "index.js",
   "bin": {
-    "eb": "./bin/index.js"
+    "eb": "./index.js"
   },
   "scripts": {
     "test": "standard",
@@ -20,12 +20,7 @@
     "url": "https://github.com/fraserxu/element-boilerplate/issues"
   },
   "homepage": "https://github.com/fraserxu/element-boilerplate#readme",
-  "devDependencies": {
-    "standard": "^6.0.8",
-    "wzrd": "^1.3.1"
-  },
   "dependencies": {
-    "bel": "^4.0.0",
     "copy-template-dir": "^1.2.0",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1"
