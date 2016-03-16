@@ -22,7 +22,6 @@
   "homepage": "https://github.com/fraserxu/element-boilerplate#readme",
   "dependencies": {
     "copy-template-dir": "^1.2.0",
-    "minimist": "^1.2.0",
-    "mkdirp": "^0.5.1"
+    "minimist": "^1.2.0"
   }
 }
