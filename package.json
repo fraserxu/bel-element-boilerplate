@@ -1,6 +1,6 @@
 {
   "name": "element-boilerplate",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A boilerplate to create element component",
   "main": "index.js",
   "bin": {
