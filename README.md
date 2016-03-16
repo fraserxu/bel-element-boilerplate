@@ -21,6 +21,20 @@ eb element-markdown
 
 ### What's in there
 
+```
+.
+├── LICENSE
+├── README.md
+├── example
+│   ├── index.css
+│   └── index.js
+├── index.html
+├── index.js
+├── package.json
+└── test
+    └── index.js
+```
+
 To start the server with wzrd from the example directory so that you can test your code while developing.
 
 ```sh

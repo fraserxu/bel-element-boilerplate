@@ -1,14 +1,13 @@
 {
   "name": "element-boilerplate",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A boilerplate to create element component",
   "main": "index.js",
   "bin": {
     "eb": "./index.js"
   },
   "scripts": {
-    "test": "standard",
-    "start": "wzrd example/index.js:bundle.js"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -23,5 +22,8 @@
   "dependencies": {
     "copy-template-dir": "^1.2.0",
     "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "standard": "^6.0.8"
   }
 }
