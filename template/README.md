@@ -14,6 +14,12 @@ A yo-yo component for rendering Markdown with [marked](https://github.com/chjj/m
 $ npm i {{name}}
 ```
 
+### Development
+
+```sh
+$ npm start
+```
+
 ### Usage
 
 ```JavaScript
